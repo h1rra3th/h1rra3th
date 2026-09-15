@@ -2,10 +2,10 @@ md
 # Привет, я Галя 👋
 ### Веб-разработчик
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+%2F+Backend;Open+to+work)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;меллстройность;бабачай)
 
 - 🔭 Сейчас занимаюсь изучением веб разработки
-- 🌱 Учу 
+- 🌱 Учу эээээээаааааа
 - 📫 Связаться: telegram @username
 
 ## 🛠 Стек
