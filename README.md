@@ -2,7 +2,7 @@ md
 # Привет, я Галя 👋
 ### Веб-разработчик
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;меллстройность;бабачай)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;меллстройность;каенжилвайпервайпер)
 
 - 🔭 Сейчас занимаюсь изучением веб разработки
 - 🌱 Учу ээээйййайй
