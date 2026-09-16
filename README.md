@@ -5,8 +5,8 @@ md
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;меллстройность;каенжилвайпервайпер)
 
 - 🔭 Сейчас занимаюсь изучением веб разработки
-- 🌱 Учу ээээйййайй
-- 📫 Связаться: telegram @username
+- 🌱 Учу структуру AI и языки программирования 
+- 📫 Связаться: telegram @h1rra3thh
 
 ## 🛠 Стек
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
